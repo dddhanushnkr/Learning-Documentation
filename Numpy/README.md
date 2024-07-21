@@ -40,7 +40,7 @@ Once Installation is done, Go to Anaconda Prompt and paste the below:
   conda install numpy
 ```
 
-# N-dimensional array (ndarray)
+## N-dimensional array (ndarray)
 N-dimensional array is an object, capable of holding data elements of same type and of a fixed size in multiple dimensions.
 
 Example 1
