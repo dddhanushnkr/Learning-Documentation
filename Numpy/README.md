@@ -56,3 +56,18 @@ Output
 ```bash
     numpy.ndarray
 ```
+
+## ndarray Attributes
+Some of the important attributes of a ndarray are
+
+ndim : Returns number of dimensions.
+
+shape: Returns Shape in tuple.
+
+size : Total number of elements.
+
+dtype : Type of each element.
+
+itemsize : Size of each element in Bytes.
+
+nbytes : Total bytes consumed by all elements.
